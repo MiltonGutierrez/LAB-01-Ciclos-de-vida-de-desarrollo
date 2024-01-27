@@ -11,6 +11,7 @@ git config --global user.email <email>
 git config --global user.name <name>
 pwd verificar el directorio donde nos encontramos
 git clone <url> copia el repositorio solo trae la rama principal
+git push/pull <nombre de repo> <nombre de rama>
 --Repositorios remotos.
 GitHub
 Gitlab
