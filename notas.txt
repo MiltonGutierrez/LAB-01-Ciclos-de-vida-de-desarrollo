@@ -3,6 +3,9 @@ git commit -m -> Guarda los cambios hechos en el repositorio
 git status -> Muestra si se han hecho cambios en los archivos que pertenecen al repositorio
 git init -> inicia el repositorio en la carpeta en la que se encuentra ubicado
 git add -> añade un archivo al repositorio
+git remote add origin <url> -> Permite crear un repositorio remoto asociado a uno local, origin esel nombre 
+git remote -v -> Permite ver todos los repositorios remotos 
+fetch -> Permite traer todas las ramas que se tienen del repositorio 
 
 --Repositorios remotos.
 GitHub
