@@ -3,3 +3,9 @@ git commit -m -> Guarda los cambios hechos en el repositorio
 git status -> Muestra si se han hecho cambios en los archivos que pertenecen al repositorio
 git init -> inicia el repositorio en la carpeta en la que se encuentra ubicado
 git add -> añade un archivo al repositorio
+
+--Repositorios remotos.
+GitHub
+Gitlab
+BitBucket
+Mercurial
