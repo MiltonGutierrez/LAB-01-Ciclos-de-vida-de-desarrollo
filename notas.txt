@@ -9,6 +9,8 @@ fetch -> Permite traer todas las ramas que se tienen del repositorio
 git push --set-upstream <nombre del repo remoto> <rama> -> permite dejar la rama predeterminadad para poder hacer push
 git config --global user.email <email>
 git config --global user.name <name>
+pwd verificar el directorio donde nos encontramos
+git clone <url> copia el repositorio solo trae la rama principal
 --Repositorios remotos.
 GitHub
 Gitlab
